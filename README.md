@@ -3,7 +3,7 @@
 [![Status: Active](https://img.shields.io/badge/status-active-success.svg)](https://www.sipingseo.com/zh/line-art-generator/anime-lineart)
 [![Rating](https://img.shields.io/badge/rating-4.9%2F5-brightgreen)](https://www.sipingseo.com/zh/line-art-generator/anime-lineart)
 
-**SPAI 二次元人物线稿生成器是一款专为动漫创作者和绘画爱好者打造的 AI 工具。只需上传图片或输入描述，即可秒级生成赛璐珞、铅笔速写、萌系 Q 版等多种风格的精致线稿，为您提供专业级的绘画素材与上色底稿。**
+**SPAI 二次元人物线稿生成器是一款专为动漫创作者和绘画爱好者打造的 AI 工具。只需上传图片或输入描述，即可秒级生成赛璐珞、铅笔速写、萌系 Q 版等多种风格的精致线稿，为您提供专业级的绘画素材与上色底稿**
 
 ## ➡️ **[立即开启线稿绘制之旅 | Start Generating Anime Lineart](https://www.sipingseo.com/zh/line-art-generator/anime-lineart)**
 
