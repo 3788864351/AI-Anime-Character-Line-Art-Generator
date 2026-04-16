@@ -64,7 +64,7 @@ The **SPAI Anime Lineart Generator** is a powerful AI-driven tool that transform
 1.  **上传参考图**: 导入动漫截图、游戏立绘或人物照片（支持 JPG/PNG/WebP）。
 2.  **定义线稿风格**: 在指令框中输入需求。*例如：“赛璐珞风格，侧脸角度，长发飘逸，线条闭合流畅。”*
 3.  **选择专业模型**: 根据画风选择 `Anime Line Pro` (专业版) 或 `Clean-Line` (干净线稿) 等模型。
-4.  **生成并保存**: 点击“生成二次元线稿”，满意后免费下载高清 PNG 透明底稿。
+4.  **生成并保存**: 点击“生成二次元线稿”，满意后免费下载高清 PNG 透明底稿
 
 ### ⚙️ 适配的专业模型 (AI Models)
 *   **Anime Line Pro**: 针对日系动漫深度优化，线条最具专业感。
