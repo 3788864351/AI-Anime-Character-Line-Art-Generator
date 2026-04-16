@@ -42,7 +42,7 @@ The **SPAI Anime Lineart Generator** is a powerful AI-driven tool that transform
 我们的 AI 线稿模型能够完美适配多种二次元细分领域：
 
 #### 1. 赛璐珞风格 (Cel-shading)
-经典的日系动画质感，线条流畅闭合，是数字上色的最佳选择。
+经典的日系动画质感，线条流畅闭合，是数字上色的最佳选择
 | 示例：女性角色 | 示例：少年角色 |
 | :---: | :---: |
 | ![赛璐珞线稿](https://img.sipingseo.com/file/anime-lineart/vMJoBvpf.webp) | ![赛璐珞少年](https://img.sipingseo.com/file/anime-lineart/EEsYpncz.webp) |
