@@ -13,7 +13,7 @@
 
 ## 🇬🇧 English Introduction
 
-The **SPAI Anime Lineart Generator** is a powerful AI-driven tool that transforms anime screenshots, game illustrations, or character photos into clean, high-quality line art. Whether you are a professional manga artist or a beginner practicing coloring, our tool provides the perfect foundation for your digital art.
+The **SPAI Anime Lineart Generator** is a powerful AI-driven tool that transforms anime screenshots, game illustrations, or character photos into clean, high-quality line art. Whether you are a professional manga artist or a beginner practicing coloring, our tool provides the perfect foundation for your digital art
 
 ### Key Features
 *   **✨ Intelligent Extraction:** Extract clean lines from any character image with a single click.
