@@ -54,7 +54,7 @@ The **SPAI Anime Lineart Generator** is a powerful AI-driven tool that transform
 | ![铅笔速写](https://img.sipingseo.com/file/anime-lineart/F4QPtUXD.webp) | ![动态速写](https://img.sipingseo.com/file/anime-lineart/4FPVzNpt.webp) |
 
 #### 3. 萌系 Q 版与机甲 (Chibi & Mecha)
-满足从可爱表情包到复杂机械结构的各种设计需求。
+满足从可爱表情包到复杂机械结构的各种设计需求
 | 示例：Q版少女 | 示例：机甲构造 |
 | :---: | :---: |
 | ![Q版线稿](https://img.sipingseo.com/file/anime-lineart/bMptGp6e.webp) | ![机甲线稿](https://img.sipingseo.com/file/anime-lineart/beeLYZgA.webp) |
