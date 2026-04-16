@@ -48,7 +48,7 @@ The **SPAI Anime Lineart Generator** is a powerful AI-driven tool that transform
 | ![赛璐珞线稿](https://img.sipingseo.com/file/anime-lineart/vMJoBvpf.webp) | ![赛璐珞少年](https://img.sipingseo.com/file/anime-lineart/EEsYpncz.webp) |
 
 #### 2. 铅笔速写 (Pencil Sketch)
-模拟真实铅笔笔触，带有艺术感的排线与轻重变化。
+模拟真实铅笔笔触，带有艺术感的排线与轻重变化
 | 示例：古风角色 | 示例：武士动态 |
 | :---: | :---: |
 | ![铅笔速写](https://img.sipingseo.com/file/anime-lineart/F4QPtUXD.webp) | ![动态速写](https://img.sipingseo.com/file/anime-lineart/4FPVzNpt.webp) |
