@@ -68,7 +68,7 @@ The **SPAI Anime Lineart Generator** is a powerful AI-driven tool that transform
 
 ### ⚙️ 适配的专业模型 (AI Models)
 *   **Anime Line Pro**: 针对日系动漫深度优化，线条最具专业感。
-*   **Manga Sketch 4.5**: 模拟漫画手绘感，适合排线与草图设计。
+*   **Manga Sketch 4.5**: 模拟漫画手绘感，适合排线与草图设计
 *   **Clean-Line**: 专注于线条的闭合性，专为后期填色设计。
 *   **Chibi-Cute**: 自动调整头身比，生成萌系 Q 版形象
 
