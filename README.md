@@ -17,7 +17,7 @@ The **SPAI Anime Lineart Generator** is a powerful AI-driven tool that transform
 
 ### Key Features
 *   **✨ Intelligent Extraction:** Extract clean lines from any character image with a single click.
-*   **🎭 Versatile Styles:** Switch between **Cel-shading**, **Pencil Sketch**, **Chibi**, and **Mecha** styles effortlessly.
+*   **🎭 Versatile Styles:** Switch between **Cel-shading**, **Pencil Sketch**, **Chibi**, and **Mecha** styles effortlessly
 *   **⚡ Professional Quality:** High-definition output suitable for printing, doujinshi, or portfolio use.
 *   **💰 100% Free & No Watermark:** Unlimited generations and high-quality PNG downloads without any cost.
 *   **🚀 Clean-Line Technology:** Optimized for digital coloring software like SAI, Photoshop, and Clip Studio Paint.
